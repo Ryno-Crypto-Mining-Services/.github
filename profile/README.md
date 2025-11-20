@@ -69,10 +69,11 @@ We're building the future of Bitcoin mining infrastructure. Interested in:
 **Visit us**: [rynocrypto.com](https://rynocrypto.com)
 
 **Connect with us**:
+- LinkedIn: [Ryno Crypto Mining Services, LLC](https://www.linkedin.com/company/109889068)
 - 𝕏 (Twitter): [@RynoMining](https://x.com/RynoMining)
 - Bluesky: [@rynomining.bsky.social](https://bsky.app/profile/rynomining.bsky.social)
 - YouTube: [Ryno Crypto Mining](https://www.youtube.com/channel/UCQxX-_FZ8NUIFK1MdSse2AQ)
-- Yakihonne: [ryno@hashgrid.net](https://yakihonne.com/profile/ryno@hashgrid.net)
+- Yakihonne: [ryno@hashgrid.net](https://yakihonne.com/profile/ryno@rynocrypto.com)
 
 ## 📍 Location
 
