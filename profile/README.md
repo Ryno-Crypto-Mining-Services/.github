@@ -55,7 +55,9 @@ We're committed to sustainable mining through:
 
 Explore our open-source projects:
 
-- **[ryno-web](https://github.com/Ryno-Crypto-Mining-Services/ryno-web)** - Public-facing web platform and documentation
+- **[Baiins Insights MCP Server](https://github.com/Ryno-Crypto-Mining-Services/braiins-insights-mcp-server)** - Connect your favorite LLM or AI coding assistant (Claude Desktop, Cursor, GitHub Copilot) to real-time Bitcoin network analytics through the **Braiins Insights Dashboard API**. Access hashrate statistics, mining profitability calculations, network difficulty trends, and 14 additional data sources via standardized Model Context Protocol (MCP) tools.
+- **[Braiins Pool MCP Server](https://github.com/Ryno-Crypto-Mining-Services/braiins-pool-mcp-server)** - **[IN DEVELOPMENT]** - An MCP server for querying data from the Braiins Pool API 
+- **[Braiins OS MCP Server](https://github.com/Ryno-Crypto-Mining-Services/braiins-os-mcp-server)** - **[IN DEVELOPMENT]** - MCP server for Braiins OS bitcoin mining firmware. Enables AI assistants to monitor and control ASIC miners via natural language queries.
 - **[ryno-assets](https://github.com/Ryno-Crypto-Mining-Services/ryno-assets)** - Asset management and deployment tools
 
 ## 🤝 Get Involved
