@@ -55,13 +55,16 @@ We're committed to sustainable mining through:
 
 **Explore our open-source projects:**
 
-### [Baiins Insights MCP Server](https://github.com/Ryno-Crypto-Mining-Services/braiins-insights-mcp-server)[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Ryno-Crypto-Mining-Services/braiins-insights-mcp-server)
+### [Baiins Insights MCP Server](https://github.com/Ryno-Crypto-Mining-Services/braiins-insights-mcp-server)  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Ryno-Crypto-Mining-Services/braiins-insights-mcp-server)
+
 **Model Context Protocol (MCP) server** Connect your favorite LLM or AI coding assistant (Claude Desktop, Cursor, GitHub Copilot) to real-time Bitcoin network analytics through the **Braiins Insights Dashboard API**. Access hashrate statistics, mining profitability calculations, network difficulty trends, and 14 additional data sources.
 
-### [Braiins Pool MCP Server](https://github.com/Ryno-Crypto-Mining-Services/braiins-pool-mcp-server)[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Ryno-Crypto-Mining-Services/braiins-pool-mcp-server)
+### [Braiins Pool MCP Server](https://github.com/Ryno-Crypto-Mining-Services/braiins-pool-mcp-server)  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Ryno-Crypto-Mining-Services/braiins-pool-mcp-server)
+
 **[UNDER DEVELOPMENT]** **Model Context Protocol (MCP) server** for querying data from the Braiins Bitcoin Mining Pool API.
 
-### [Braiins OS MCP Server](https://github.com/Ryno-Crypto-Mining-Services/braiins-os-mcp-server)[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Ryno-Crypto-Mining-Services/braiins-os-mcp-server)
+### [Braiins OS MCP Server](https://github.com/Ryno-Crypto-Mining-Services/braiins-os-mcp-server)  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Ryno-Crypto-Mining-Services/braiins-os-mcp-server)
+
 **[UNDER DEVELOPMENT]** **Model Context Protocol (MCP) server** for Braiins OS bitcoin mining firmware. Enables AI assistants to monitor and control ASIC miners via natural language queries.
 
 ### [Ryno Media Assets](https://github.com/Ryno-Crypto-Mining-Services/ryno-assets)
